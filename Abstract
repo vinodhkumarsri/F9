@@ -1,0 +1,18 @@
+TITLE OF THE PROJECT         :     METAL ARTIFACT REDUCTION IN MRI AND  CT SCAN
+
+NAME OF  THE STUDENTS            VINODH KUMAR. S  [211417104303]
+AND                                                 :     YESHWANTH KUMAR. S [211417104311]
+REGISTER NUMBERS                      TINU PRATHEEP DHARSHAN.S [211417104283]
+
+NAME OF THE GUIDE                :       Dr. A.N. SASIKUMAR,ME.,Ph.D.,
+
+
+
+       
+                                                      ABSTRACT
+In modern world looking in to the human body interior as improved a lot n in X-ray computed tomography (CT) scanners, and magnetic resonance imaging (MRI) can produce excellent images in many cases but there are cases where they fail.
+They fail in the case when the presence of dense matter like metal plates or blocks which are placed in human body artificially during some special cases like fracture in bones, etc.    
+These artificially inserted metal like substance majorly block or totally block produce artifacts during reconstructions of the imaging .
+These metal artifact can  limit the diagnostic value of the image produced during the scans .
+We propose a system where we use both deep learning and machine learning algorithm to produce great and accurate results in CT and MRI scans though training the deep learning is so tough challenge and at the end we can have a good diagnostic value in the resulting image 
+Keywords—Metal artifact, Artifact reduction, MRI scan, CT Scan, Computed tomography and Magnetic resonance Imaging 
